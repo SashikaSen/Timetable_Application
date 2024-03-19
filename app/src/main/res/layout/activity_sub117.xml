@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".sem_list.subject_list_IS.sub_list_webviewdrive_IS.sub_1_1_IS.sub_1_1_7">
+
+
+    <WebView
+        android:id="@+id/Webviewsub117"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+
+
+        />
+
+</LinearLayout>

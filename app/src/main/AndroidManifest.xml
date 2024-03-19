@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="Time Table++"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.OWNTimeTable"
+        android:usesCleartextTraffic="true"
+        tools:targetApi="31">
+        <activity
+            android:name="com.it_group_o.owntimetable.sch_webview.sch_webview_IS38"
+            android:exported="false" />
+        <activity
+            android:name="com.it_group_o.owntimetable.sch_webview.sch_webview_IT38"
+            android:exported="false" />
+        <activity
+            android:name=".sem_list.subject_list_IS.webviewdrivesub_1_2_IS.sub_1_2_8"
+            android:exported="false" />
+        <activity
+            android:name=".sem_list.subject_list_IS.webviewdrivesub_1_2_IS.sub_1_2_7"
+            android:exported="false" />
+        <activity
+            android:name=".sem_list.subject_list_IS.webviewdrivesub_1_2_IS.sub_1_2_6"
+            android:exported="false" />
+        <activity
+            android:name=".sem_list.subject_list_IS.webviewdrivesub_1_2_IS.sub_1_2_5"
+            android:exported="false" />
+        <activity
+            android:name=".sem_list.subject_list_IS.webviewdrivesub_1_2_IS.sub_1_2_4"
+            android:exported="false" />
+        <activity
+            android:name=".sem_list.subject_list_IS.webviewdrivesub_1_2_IS.sub_1_2_3"
+            android:exported="false" />
+        <activity
+            android:name=".sem_list.subject_list_IS.webviewdrivesub_1_2_IS.sub_1_2_2"
+            android:exported="false" />
+        <activity
+            android:name=".sem_list.subject_list_IS.webviewdrivesub_1_2_IS.sub_1_2_1"
+            android:exported="false" />
+        <activity
+            android:name="com.it_group_o.owntimetable.sem_list.subject_list_IS.sub_list_webviewdrive_IS.sub_1_1_IS.sub_1_1_9"
+            android:exported="false" />
+        <activity
+            android:name="com.it_group_o.owntimetable.sem_list.subject_list_IS.sub_list_webviewdrive_IS.sub_1_1_IS.sub_1_1_8"
+            android:exported="false" />
+        <activity
+            android:name="com.it_group_o.owntimetable.sem_list.subject_list_IS.sub_list_webviewdrive_IS.sub_1_1_IS.sub_1_1_7"
+            android:exported="false" />
+        <activity
+            android:name="com.it_group_o.owntimetable.sem_list.subject_list_IS.sub_list_webviewdrive_IS.sub_1_1_IS.sub_1_1_6"
+            android:exported="false" />
+        <activity
+            android:name="com.it_group_o.owntimetable.sem_list.subject_list_IS.sub_list_webviewdrive_IS.sub_1_1_IS.sub_1_1_5"
+            android:exported="false" />
+        <activity
+            android:name="com.it_group_o.owntimetable.sem_list.subject_list_IS.sub_list_webviewdrive_IS.sub_1_1_IS.sub_1_1_4"
+            android:exported="false" />
+        <activity
+            android:name="com.it_group_o.owntimetable.sem_list.subject_list_IS.sub_list_webviewdrive_IS.sub_1_1_IS.sub_1_1_3"
+            android:exported="false" />
+        <activity
+            android:name="com.it_group_o.owntimetable.sem_list.subject_list_IS.sub_list_webviewdrive_IS.sub_1_1_IS.sub_1_1_2"
+            android:exported="false" />
+        <activity
+            android:name="com.it_group_o.owntimetable.sem_list.subject_list_IS.sub_list_webviewdrive_IS.sub_1_1_IS.sub_1_1_1"
+            android:exported="false" />
+        <activity
+            android:name="com.it_group_o.owntimetable.sem_list.subject_list_IT.sub_4_2_IT"
+            android:exported="false" />
+        <activity
+            android:name="com.it_group_o.owntimetable.sem_list.subject_list_IT.sub_4_1_IT"
+            android:exported="false" />
+        <activity
+            android:name="com.it_group_o.owntimetable.sem_list.subject_list_IT.sub_3_2_IT"
+            android:exported="false" />
+        <activity
+            android:name="com.it_group_o.owntimetable.sem_list.subject_list_IT.sub_3_1_IT"
+            android:exported="false" />
+        <activity
+            android:name="com.it_group_o.owntimetable.sem_list.subject_list_IT.sub_2_2_IT"
+            android:exported="false" />
+        <activity
+            android:name="com.it_group_o.owntimetable.sem_list.subject_list_IT.sub_2_1_IT"
+            android:exported="false" />
+        <activity
+            android:name="com.it_group_o.owntimetable.sem_list.subject_list_IT.sub_1_2_IT"
+            android:exported="false" />
+        <activity
+            android:name="com.it_group_o.owntimetable.sem_list.subject_list_IT.sub_1_1_IT"
+            android:exported="false" />
+        <activity
+            android:name="com.it_group_o.owntimetable.sem_list.subject_list_IS.sub_4_2_IS"
+            android:exported="false" />
+        <activity
+            android:name="com.it_group_o.owntimetable.sem_list.subject_list_IS.sub_4_1_IS"
+            android:exported="false" />
+        <activity
+            android:name="com.it_group_o.owntimetable.sem_list.subject_list_IS.sub_3_2_IS"
+            android:exported="false" />
+        <activity
+            android:name="com.it_group_o.owntimetable.sem_list.subject_list_IS.sub_3_1_IS"
+            android:exported="false" />
+        <activity
+            android:name="com.it_group_o.owntimetable.sem_list.subject_list_IS.sub_2_2_IS"
+            android:exported="false" />
+        <activity
+            android:name="com.it_group_o.owntimetable.sem_list.subject_list_IS.sub_2_1_IS"
+            android:exported="false" />
+        <activity
+            android:name="com.it_group_o.owntimetable.sem_list.subject_list_IS.sub_1_2_IS"
+            android:exported="false" />
+        <activity
+            android:name="com.it_group_o.owntimetable.sem_list.subject_list_IS.sub_1_1_IS"
+            android:exported="false" />
+        <activity
+            android:name="com.it_group_o.owntimetable.sem_list.sem_list_4_IS"
+            android:exported="false" />
+        <activity
+            android:name="com.it_group_o.owntimetable.sem_list.sem_list_3_IS"
+            android:exported="false" />
+        <activity
+            android:name="com.it_group_o.owntimetable.sem_list.sem_list_2_IS"
+            android:exported="false" />
+        <activity
+            android:name="com.it_group_o.owntimetable.sem_list.sem_list_1_IS"
+            android:exported="false" />
+        <activity
+            android:name="com.it_group_o.owntimetable.sem_list.sem_list_4_IT"
+            android:exported="false" />
+        <activity
+            android:name="com.it_group_o.owntimetable.sem_list.semList3IT"
+            android:exported="false" />
+        <activity
+            android:name="com.it_group_o.owntimetable.sem_list.sem_list_2_IT"
+            android:exported="false" />
+        <activity
+            android:name="com.it_group_o.owntimetable.sem_list.sem_list_1_IT"
+            android:exported="false" />
+        <activity
+            android:name=".year_IS"
+            android:exported="false" />
+        <activity
+            android:name=".year_IT"
+            android:exported="false" />
+        <activity
+            android:name=".Splash_screen"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".About"
+            android:exported="false" />
+        <activity
+            android:name=".LMS_Portal"
+            android:exported="false"
+            android:usesCleartextTraffic="true" />
+        <activity
+            android:name=".Settings"
+            android:exported="false" />
+        <activity
+            android:name=".Academics"
+            android:exported="false" />
+        <activity
+            android:name=".Subjects"
+            android:exported="false" />
+        <activity
+            android:name=".Schedules"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

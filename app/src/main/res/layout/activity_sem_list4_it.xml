@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".sem_list.sem_list_4_IT">
+
+    <ListView
+        android:id="@+id/sem_list_it_4"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:dividerHeight="8px"
+        android:clickable="true"
+        />
+
+</LinearLayout>
